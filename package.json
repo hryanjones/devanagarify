@@ -1,0 +1,23 @@
+{
+    "name": "devanagarify",
+    "version": "0.0.1",
+    "description": "Given English HTML, lookup the sound of the word and convert it into Devnagri script. (Helpful in learning to read Devnagri by converting English books).",
+    "author": "H. Ryan Jones <hryanjones@gmail.com> (@hryanjones)",
+    "main": "lib/devanagrify.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hryanjones/devanagarify"
+    },
+    "bugs": {
+        "url": "https://github.com/hryanjones/devanagarify"
+    },
+    "keywords": [
+        "hindi",
+        "english",
+        "devanagri"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "analyze": true,
+    "license": "MIT"
+}
